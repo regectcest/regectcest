@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=ix1dx1%2Fgithub-vistors-badge&label=sleepyheads&labelColor=%23eee7ca&countColor=%23ffffe7&style=flat-square&labelStyle=lower)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=ix1dx1%2Fgithub-vistors-badge&label=regected&labelColor=%238f5e03&countColor=%23cdd4bb&style=flat-square&labelStyle=upper)
 
 [<img width="400" height="100" alt="Untitled170_20260926023555" src="https://github.com/user-attachments/assets/c9a64219-e08b-4108-be3d-0bb66aab424b" />
 ](https://github.com/sHarkieeii)
