@@ -6,5 +6,7 @@
 [<img width="300" height="400" alt="Untitled51_20261006212326" src="https://github.com/user-attachments/assets/d7ee57c7-8fcc-4a9a-a527-3ba2d729bed9" />
 ](https://github.com/sHarkieeii)
 
+$${\color{gold}regect\ fictkin\ and\ yume}$$
+
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shiwanjini&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=8f5e03&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
