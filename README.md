@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=ix1dx1%2Fgithub-vistors-badge&label=regected&labelColor=%238f5e03&countColor=%23cdd4bb&style=flat-square&labelStyle=upper)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=ix1dx1%2Fgithub-vistors-badge&label=regected&labelColor=%23f1bd37&countColor=%23000000&style=flat-square&labelStyle=upper)
 
 [<img width="300" height="400" alt="Untitled51_20261006190340" src="https://github.com/user-attachments/assets/a4260f08-2af6-45e5-b194-1e7b39fa1ec5" />
 ](https://github.com/sHarkieeii)
